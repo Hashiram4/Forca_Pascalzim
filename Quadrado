@@ -1,9 +1,0 @@
-Program Quadrado ;
-Var
-	N1: integer;
-Begin
-   Write('Digite um número inteiro: ');
-   Readln(N1);
-   Write('O resultado é: ', Exp(2*Ln(N1)):2 :2);
-   Readln;
-End.
